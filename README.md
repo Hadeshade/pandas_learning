@@ -9,11 +9,6 @@ Bem-vindo(a) ao repositório de estudos de Pandas! Aqui você encontrará divers
 ## 📌 Tabela de Conteúdos
 1. [Introdução](#-introdução)
 2. [Começando](#-começando)
-3. [Tópicos Abordados](#%EF%B8%8F-tópicos-abordados)
-4. [Estrutura do Repositório](#-estrutura-do-repositório)
-5. [Contribuindo](#-contribuindo)
-6. [Recursos Úteis](#-recursos-úteis)
-7. [Licença](#-licença)
 
 ## 🚀 Introdução
 Este repositório foi criado para documentar minha jornada de aprendizado com a biblioteca Pandas e servir como referência para outros entusiastas de análise de dados. Aqui você encontrará:
